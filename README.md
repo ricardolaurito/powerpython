@@ -1,2 +1,2 @@
 # powerpython
-Uma série de estudos e práticas para usar o poder do Python.
+Uma série de estudos e práticas pessoais para usar o poder do Python.
